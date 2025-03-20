@@ -1,4 +1,4 @@
-// File: /media/ciphadus/Drive Two/Projects/Test/src/app/api/generate-story/route.ts
+// File: /media/ciphadus/Drive Two/Projects/AI-Storyteller/src/app/api/generate-story/route.ts
 import * as entry from '../../../../../src/app/api/generate-story/route.js'
 import type { NextRequest } from 'next/server.js'
 
